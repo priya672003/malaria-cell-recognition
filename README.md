@@ -200,7 +200,8 @@ plt.show()
 
 ### New Sample Data Prediction
 
-![Uploading image.png…]()
+![image](https://github.com/priya672003/malaria-cell-recognition/assets/81132849/0f7d5cbf-9e70-4a9f-a121-96b566683cd8)
+
 
 
 ## RESULT
